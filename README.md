@@ -101,15 +101,3 @@
   </tr>
 </table>
 <br>
- 
-### Profile Visitors
- 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=JAYED-HOSEN.visitor-badge&left_color=blue&right_color=yellow)
-<br />
- 
-<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
- 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/JAYED-HOSEN/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=JAYED-HOSEN&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
- 
