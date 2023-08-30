@@ -1,10 +1,10 @@
-<p align="middle"><img width="300px" src="https://raw.githubusercontent.com/JAYED-HOSEN/JAYED-HOSEN/main/Picsart_23-08-01_21-16-47-330.png"/></p>
+<p align="middle"><img width="300px" src="https://raw.githubusercontent.com/JAYED-HOSEN/MD-TAHMID-AHMED/main/Picsart_23-08-01_21-16-47-330.png"/></p>
 
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
  
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-    JAYED-HOSEN (MR-DEVIL)
+    MD-TAHMID-AHMED (MR-DEVIL)
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
  
@@ -18,16 +18,16 @@
  
 <h3 align="center">HACKING SCRIPT DEVELOPER</h3>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JAYED-HOSEN&label=Profile%20views&color=eb4d3d&style=flat-square" alt="JAYED-HOSEN" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MD-TAHMID-AHMED&label=Profile%20views&color=eb4d3d&style=flat-square" alt="MD-TAHMID-AHMED" /> </p>
 </i></b></h3>
  
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/JAYED-HOSEN"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=JAYED-HOSEN&theme=monokai"></a>
+<a href="https://github.com/MD-TAHMID-AHMED"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MD-TAHMID-AHMED&theme=monokai"></a>
  
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 😏 𝐍𝐀𝐌𝐄:- 𝐉𝐀𝐘𝐄𝐃 𝐇𝐎𝐒𝐒𝐄𝐍
+- 😏 𝐍𝐀𝐌𝐄:- MD-TAHMID-AHMED
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
